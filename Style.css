@@ -1,6 +1,6 @@
 *{
     margin: 0px;
-    padding: 0px;
+    padding: 22px;
     box-sizing: border-box;
 }
 
@@ -13,3 +13,7 @@
     flex-wrap: wrap;
 }
 
+.img-container img{
+    height: 300px;
+    width: 300px;
+}
